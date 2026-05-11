@@ -25,8 +25,7 @@ A classic Snake game built with vanilla JavaScript as a practice project to revi
 
 ## Play Online
 
-[Live Demo](https://yourusername.github.io/snake-game/)
-_(Will be live after deployment)_
+[Live Demo](https://yuvraj72.github.io/Snake-Game/)
 
 ## Installation
 
